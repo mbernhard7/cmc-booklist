@@ -1,7 +1,7 @@
 # cmc-booklist
 Reads from CMC booklist and attempts to download books from Z-library
 
-Pirating books is not encouraged. Books will be downloaded from https://b-ok.cc/. See https://b-ok.cc/dmca.php for information regarding copyright complaints.
+Pirating books is illegal. Only download books legally. Books will be downloaded from https://b-ok.cc/. See https://b-ok.cc/dmca.php for information regarding copyright complaints and where to submit them.
 
 CD to cmc-booklist-master directory and run Textbooks.py.
 
